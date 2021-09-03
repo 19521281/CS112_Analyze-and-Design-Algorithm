@@ -1,0 +1,1 @@
+Knight Dialer is a problem given by Google in an interview to evaluate the ability to think logically, the level of proficiency in algorithms, the ability to implement ideas in a limited time (45 minutes), and evaluate algorithmic complexity given by self.
